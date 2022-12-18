@@ -1,0 +1,6 @@
+- save the taken picture as .png
+
+- video mode; capture screen then save as .mp4
+
+- filters! also, get filters from UniStore
+- save the taken picture in the .usp format (image + filter + watermark)
